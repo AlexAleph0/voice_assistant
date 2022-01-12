@@ -1,2 +1,2 @@
 # Python-Repo
-Collection of work form 1st year of coding
+This is a simple voice activated and controlled assistant that indexes commands using Elasticsearcg
